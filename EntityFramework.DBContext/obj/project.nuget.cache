@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AWdkwhRG1ZqGOd/pUpWdpi7j8pWUJtpWVrfTm60+/3LW0k7puZELXJ9iEWsOSIFStm4m8T1MdNfVl0K/3HgDuA==",
-  "success": true,
+  "dgSpecHash": "2Sw5g5cyCFIgNO8PxTb+2p4Kxg2UYEVraAzD5N6Tz2nMIj29iTWXHkiLOqku3n31/niuOsuFvFHXrcPb0H9D9A==",
+  "success": false,
   "projectFilePath": "C:\\Projects\\Entity Framework\\entityframwork-dbContext\\EntityFramework.DBContext\\EntityFramework.DBContext.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'EntityFramework.DBContext': '7.0.s20' is not a valid version string."
+    }
+  ]
 }
